@@ -1,6 +1,6 @@
-# Heading
+# Viktor Sirakov
 
-1. aH6A
-2. aH6A
-	1. SUBAH6A
-	2. UBAH6A
+1. Statistics
+2. ML
+	1. Generetive models
+	2. Architecture
